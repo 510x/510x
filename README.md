@@ -9,7 +9,6 @@
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=510x&theme=dark">
 </a>
 
-![510x](https://komarev.com/ghpvc/?username=510x)
 
 Currently Working on:
 
