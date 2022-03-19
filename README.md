@@ -5,8 +5,8 @@
   
 ## 💡 About
 <a href="https://github.com/510x">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=agam778&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778&theme=dark">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=510x&theme=dark&show_icons=true)">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=510x&theme=dark">
 </a>
 
 ![agam778](https://komarev.com/ghpvc/?username=510x)
@@ -17,4 +17,4 @@ Currently Working on:
 
 ## 🌏 Social
 
-[![Github: agam778](https://img.shields.io/github/followers/agam778?labelColor=24292E&color=24292E&label=github%20agam778&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/510x)<br>
+[![Github: agam778](https://img.shields.io/github/followers/510x?labelColor=24292E&color=24292E&label=github%20510x&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/510x)<br>
