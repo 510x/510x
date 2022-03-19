@@ -9,7 +9,7 @@
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=510x&theme=dark">
 </a>
 
-![agam778](https://komarev.com/ghpvc/?username=510x)
+![510x](https://komarev.com/ghpvc/?username=510x)
 
 Currently Working on:
 
@@ -17,4 +17,4 @@ Currently Working on:
 
 ## 🌏 Social
 
-[![Github: agam778](https://img.shields.io/github/followers/510x?labelColor=24292E&color=24292E&label=github%20510x&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/510x)<br>
+[![Github: 510x](https://img.shields.io/github/followers/510x?labelColor=24292E&color=24292E&label=github%20510x&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/510x)<br>
