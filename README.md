@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/792520434893324339" target="_blank"><img src=https://lanyard.cnrad.dev/api/792520434893324339 alt="Discord Presence"></a><br><br><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=black" alt="Open source apps"></a>
 &nbsp;<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/LINUX-orange?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"></a>
 &nbsp;<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=black" alt="VSCode"></a>
-&nbsp;<a href="https://en.wikipedia.org/wiki/India"><img src="https://img.shields.io/badge/INDIA-red?style=for-the-badge&logo=Google%20Earth&logoColor=black" alt="India"></a></h1>
+&nbsp;
   
 ## 💡 About
 <a href="https://github.com/510x">
