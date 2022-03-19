@@ -9,12 +9,6 @@
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=agam778&theme=dark">
 </a>
 
-Hi, my name is **Agampreet Singh**. I am:
-
-- 🇮🇳 A boy born and grew up in India
-- 💻 A developer (small projects right now and still learning)
-- 📹 A YouTuber on Tech Stuff
-
 ![agam778](https://komarev.com/ghpvc/?username=510x)
 
 Currently Working on:
