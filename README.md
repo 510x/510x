@@ -3,5 +3,5 @@
 
 ## <img src="https://cdn.discordapp.com/attachments/965722805142433883/991627842725105704/emote.png" alt="ebandaid" width="20"> Who is 510x?
 <a href="https://github.com/510x">
-  <img align="left" width="30" src="https://cdn.discordapp.com/attachments/965722805142433883/991629094955532288/emote.png"> @nigelgokys (Instagram)\n
+  <img align="left" width="30" src="https://cdn.discordapp.com/attachments/965722805142433883/991629094955532288/emote.png"> @nigelgokys (Instagram)
 </a>
